@@ -1,0 +1,2 @@
+# A-Deep-Learning-Framework-for-Pre-Impact-Fall-Detection-on-a-Wearable-IoT-Platform
+A research framework for a pre-impact fall detection system on a wearable IoT device. This project uses an ESP32, MPU-6050, and a Transformer model. The key innovation is an Edge AI (TinyML) architecture running on-device with TensorFlow Lite, enabling high-accuracy fall detection before impact by eliminating cloud latency.
